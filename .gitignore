@@ -1,0 +1,5 @@
+reports/*.txt
+backups/*.tar.gz
+logs/*.log
+*.tmp
+.env
